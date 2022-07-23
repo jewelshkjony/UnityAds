@@ -18,7 +18,7 @@ An extension to monetize your application with Unity Ads.
 <img src="https://github.com/jewelshkjony/UnityAds/raw/main/images/aix.png"/>
 <br/>
 <img src="https://github.com/jewelshkjony/UnityAds/raw/main/images/property-1.png"/ >
-<img src="https://github.com/jewelshkjony/UnityAds/raw/main/images/property-2.png"/ >
+<img src="https://github.com/jewelshkjony/UnityAds/raw/main/images/property-3.png"/ >
 
 ## Initialize Sdk
 Initialize the unity sdk before load any ads.
