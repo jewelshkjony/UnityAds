@@ -38,6 +38,7 @@ Load interstitial and reward ad using same functions.
 ## Extension specifications:
 <img src="https://github.com/jewelshkjony/UnityAds/raw/main/images/download.png"/> <a href="https://t.me/jewelshkjony/">com.jewel.unityads</a>(609 KB) \
 <b>Version:</b> 4.2.1\
+<b>Price:</b> 10 USD\
 <b>Last amendment:</b> 24 July 2022\
 <b>Supported builder:</b> <a href="https://www.kodular.io/">Kodular</a>, <a href="https://niotron.com/">Niotron</a>, <a href="https://appzard.com/">AppZard</a>, <a href="https://androidbuilder.in/">AndroidBuilder</a>, <a href="http://ai2.appinventor.mit.edu/">App Inventor</a> and it's other distributions.
 
