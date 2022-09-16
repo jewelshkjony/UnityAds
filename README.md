@@ -38,24 +38,17 @@ Load interstitial and reward ad using same functions.
 ## Extension specifications:
 <img src="https://github.com/jewelshkjony/UnityAds/raw/main/images/download.png"/> <a href="https://t.me/jewelshkjony/">com.jewel.unityads.aix</a> (609 KB) \
 <b>Version:</b> 4.4.0\
+<b>Demo Apk:</b> <a href="https://github.com/jewelshkjony/UnityAds/releases/download/UnityAds-4.4.0/UnityAds.apk">UnityAds.apk</a> \
 <b>Price:</b> 10 USD\
 <b>Last amendment:</b> 15 September 2022\
 <b>Supported builder:</b> <a href="https://www.kodular.io/">Kodular</a>, <a href="https://niotron.com/">Niotron</a>, <a href="https://appzard.com/">AppZard</a>, <a href="https://androidbuilder.in/">AndroidBuilder</a>, <a href="http://ai2.appinventor.mit.edu/">App Inventor</a> and it's other distributions.
 
+## 📫 How to reach me ↓
 
-## 📫 How to reach me -
+<a href="https://t.me/jewelshkjony">Telegram</a> | <a href="https://wa.me/8801775668913">WhatsApp</a> | <a href="https://fb.com/jewelshkjony">Facebook</a> | <a href="https://m.me/jewelshkjony">Messenger</a> | <a href="https://m.youtube.com/c/JewelShikderJony?sub_confirmation=1">Youtube</a>
 
-<a href="https://t.me/jewelshkjony">Telegram</a> | <a href="https://wa.me/8801775668913">WhatsApp</a> | <a href="https://fb.com/jewelshkjony">Facebook</a> | <a href="https://m.me/jewelshkjony">Messenger</a> | <a href="https://m.youtube.com/c/JewelShikderJony">Youtube</a>
+## 💲 Payment Methods ↓
 
-## Global Payment Method
-<a href="https://www.xoom.com/bangladesh/send-money">Xoom</a> | <a href="https://wise.com/">TansferWise (Wise)</a>
+❏ <a href="https://www.xoom.com/bangladesh/send-money">Xoom</a> | <a href="https://wise.com/">Wise</a> | <a href="https://play.google.com/store/apps/details?id=com.jewelshkjony.pay2me">Pay2Me</a> (International)
 
-### Bangladeshi Payment Method
-Bangladeshi user can send money using <a href="https://bka.sh/next?c=signup&uuid=C1CC9JVT1">bkash</a> | <a href="https://play.google.com/store/apps/details?id=com.konasl.nagad">Nagad</a> | <a href="https://play.google.com/store/apps/details?id=com.dbbl.mbs.apps.main">Rocket</a>.
-Use this phone number to send money.
-
-````java
-+8801775668913
-````
-
-Remember accounts are personal, so you've to use send money option.
+❏ <a href="https://bka.sh/next?c=signup&uuid=C1CC9JVT1">bkash</a> | <a href="https://play.google.com/store/apps/details?id=com.konasl.nagad">Nagad</a> | <a href="https://play.google.com/store/apps/details?id=com.dbbl.mbs.apps.main">Rocket</a> (Bangladesh)
